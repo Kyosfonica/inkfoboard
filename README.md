@@ -51,7 +51,7 @@ Example call:<br>
 
 Get the best of it when you set a cron job that executes the script every minute.<br>This way all your sites will be monitored at once and you will be notified by email and from the display if anything changes.
 
-    * * * * * python /path/to/monitorink.py [options] urls
+    * * * * * cd /path/to/inkfoboard && /usr/bin/python monitorink.py [options] urls
 
 
 
